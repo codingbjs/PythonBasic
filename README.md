@@ -13,3 +13,6 @@
 
 ## 5. Class_and_Package
 - Class_and_Package.ipynb : 파이썬 class, package
+
+## 6. NumPy
+- NumPy.ipynb : NumPy 활용
