@@ -4,3 +4,6 @@
 
 ## 2. Data_Structure
 - Data_Structure.ipynb : 파이썬 자료 구조 - list, tuple, dict
+
+## 3. Control_Statement
+- Control_Statement.ipynb : 파이썬 제어문 - if, if ~ else, if ~ elif ~ else, for 
