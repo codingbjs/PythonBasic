@@ -10,3 +10,6 @@
 
 ## 4. Function_and_Module
 - Function_and_Module.ipynb : 파이썬 함수, import
+
+## 5. Class_and_Package
+- Class_and_Package.ipynb : 파이썬 class, package
