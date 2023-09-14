@@ -16,3 +16,6 @@
 
 ## 6. NumPy
 - NumPy.ipynb : NumPy 활용
+
+## 7. Pandas
+- pandas.ipynb : Pandas 활용
