@@ -19,3 +19,6 @@
 
 ## 7. Pandas
 - pandas.ipynb : Pandas 활용
+
+## 8. Data_Preprocessing
+- Data_Preprocessing.ipynb : 데이터 전처리 활용
